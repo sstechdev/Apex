@@ -1,8 +1,8 @@
 # Apex: LLM with speech responses
+- Watch demo
+[![Apex v0.1 Demo](/public/apex-video-thumnail.png)](https://youtu.be/dWUP4W_RbkM)
 
-[Space for Video]
 
-[Space for Images]
 
 ## Connect with me at
 https://x.com/JSebastianS01
